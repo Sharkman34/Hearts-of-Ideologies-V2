@@ -1,0 +1,702 @@
+ideas = {
+	
+	country = {
+		theleft_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+			has_government = anarchism
+				has_government = totalism
+				has_government = rev_communism
+				has_government = communism
+				has_government = syndicalism
+				has_government = rad_soc
+				has_government = mod_communism
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				dem_socialism_dirft = -0.1
+				social_democracy_dirft = -0.1
+				agrarian_dirft = -0.1
+				soc_lib_dirft = -0.1
+				rep_lib_dirft = -0.1
+				nat_lib_dirft = -0.1
+				market_lib_dirft = -0.1
+				conservative_lib_dirft = -0.1
+				christ_dem_dirft = -0.1
+				democratic_dirft = -0.1
+				nat_con_dirft = -0.1
+				neutrality_dirft = -0.1
+				dem_nat_dirft = -0.1
+				monarchism_dirft = -0.1
+				theocracy_dirft = -0.1
+				auth_dem_dirft = -0.1
+				pat_aut_dirft = -0.1
+				ultra_nat_dirft = -0.1
+				fascism_dirft = -0.1
+				nat_bol_dirft = -0.1
+				nat_soc_dirft = -0.1
+			}
+		}
+
+	thecentre_idea = {
+			
+		allowed = {
+			always = no
+		}
+
+		allowed_civil_war = {
+			has_government = dem_socialism
+			has_government = social_democracy
+			has_government = agrarian
+			has_government = soc_lib
+			has_government = rep_lib
+			has_government = nat_lib
+			has_government = market_lib
+			has_government = conservative_lib
+			has_government = christ_dem
+			has_government = democratic
+			has_government = nat_con
+			has_government = neutrality
+			has_government = dem_nat
+		}
+
+		removal_cost = -1
+
+		#picture = generic_infantry_bonus
+
+			
+		modifier = {
+			monarchism_dirft = -0.1
+			theocracy_dirft = -0.1
+			auth_dem_dirft = -0.1
+			pat_aut_dirft = -0.1
+			ultra_nat_dirft = -0.1
+			fascism_dirft = -0.1
+			nat_bol_dirft = -0.1
+			nat_soc_dirft = -0.1
+			anarchism_dirft = -0.1
+			totalism_dirft = -0.1
+			rev_communism_dirft = -0.1
+			communism_dirft = -0.1
+			syndicalism_dirft = -0.1
+			rad_soc_dirft = -0.1
+			mod_communism_dirft = -0.1
+		}
+	}
+
+	theright_idea = {
+			
+		allowed = {
+			always = no
+		}
+
+		allowed_civil_war = {
+			has_government = monarchism
+			has_government = theocracy
+			has_government = auth_dem
+			has_government = pat_aut
+			has_government = ultra_nat
+			has_government = fascism
+			has_government = nat_bol
+			has_government = nat_soc
+		}
+
+		removal_cost = -1
+
+		#picture = generic_infantry_bonus
+
+			
+		modifier = {
+			anarchism_dirft = -0.1
+			totalism_dirft = -0.1
+			rev_communism_dirft = -0.1
+			communism_dirft = -0.1
+			syndicalism_dirft = -0.1
+			rad_soc_dirft = -0.1
+			mod_communism_dirft = -0.1
+			dem_socialism_dirft = -0.1
+			social_democracy_dirft = -0.1
+			agrarian_dirft = -0.1
+			soc_lib_dirft = -0.1
+			rep_lib_dirft = -0.1
+			nat_lib_dirft = -0.1
+			market_lib_dirft = -0.1
+			conservative_lib_dirft = -0.1
+			christ_dem_dirft = -0.1
+			democratic_dirft = -0.1
+			nat_con_dirft = -0.1
+			neutrality_dirft = -0.1
+			dem_nat_dirft = -0.1
+		}
+	}
+
+	anarchism_idea = {
+			
+		allowed = {
+			always = no
+		}
+
+		allowed_civil_war = {
+			has_government = anarchism
+		}
+
+		removal_cost = -1
+
+		#picture = generic_infantry_bonus
+
+			
+		modifier = {
+			anarchism_dirft = 0.1
+		}
+	}
+
+	totalism_idea = {
+			
+		allowed = {
+			always = no
+		}
+
+		allowed_civil_war = {
+			has_government = totalism
+		}
+
+		removal_cost = -1
+
+		#picture = generic_infantry_bonus
+
+			
+		modifier = {
+			totalism_dirft = 0.1
+		}
+	}
+
+	rev_communism_idea = {
+			
+		allowed = {
+			always = no
+		}
+
+		allowed_civil_war = {
+			has_government = rev_communism
+		}
+
+		removal_cost = -1
+
+		#picture = generic_infantry_bonus
+
+			
+		modifier = {
+			rev_communism_dirft = 0.1
+		}
+	}
+
+	communism_idea = {
+			
+		allowed = {
+			always = no
+		}
+
+		allowed_civil_war = {
+			has_government = communism
+		}
+
+		removal_cost = -1
+
+		#picture = generic_infantry_bonus
+
+			
+		modifier = {
+			communism_dirft = 0.1
+		}
+	}
+
+	syndicalism_idea = {
+			
+		allowed = {
+			always = no
+		}
+
+		allowed_civil_war = {
+			has_government = syndicalism
+		}
+
+		removal_cost = -1
+
+		#picture = generic_infantry_bonus
+
+			
+		modifier = {
+			syndicalism_dirft = 0.1
+		}
+	}
+
+	rad_soc_idea = {
+			
+		allowed = {
+			always = no
+		}
+
+		allowed_civil_war = {
+			has_government = rad_soc
+		}
+
+		removal_cost = -1
+
+		#picture = generic_infantry_bonus
+
+			
+		modifier = {
+			rad_soc_dirft = 0.1
+		}
+	}
+
+	mod_communism_idea = {
+			
+		allowed = {
+			always = no
+		}
+
+		allowed_civil_war = {
+			has_government = mod_communism
+		}
+
+		removal_cost = -1
+
+		#picture = generic_infantry_bonus
+
+			
+		modifier = {
+			mod_communism_dirft = 0.1
+		}
+	}
+
+	dem_socialism_idea = {
+			
+		allowed = {
+			always = no
+		}
+
+		allowed_civil_war = {
+			has_government = dem_socialism
+		}
+
+		removal_cost = -1
+
+		#picture = generic_infantry_bonus
+
+			
+		modifier = {
+			dem_socialism_dirft = 0.1
+		}
+	}
+
+	social_democracy_idea = {
+			
+		allowed = {
+			always = no
+		}
+
+		allowed_civil_war = {
+			has_government = social_democracy
+		}
+
+		removal_cost = -1
+
+		#picture = generic_infantry_bonus
+
+			
+		modifier = {
+			social_democracy_dirft = 0.1
+		}
+	}
+
+		agrarian_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = agrarian
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				agrarian_dirft = 0.1
+			}
+		}
+
+		soc_lib_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = soc_lib
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				soc_lib_dirft = 0.1
+			}
+		}
+
+		rep_lib_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = rep_lib
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				rep_lib_dirft = 0.1
+			}
+		}
+
+		nat_lib_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = nat_lib
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				nat_lib_dirft = 0.1
+			}
+		}
+
+		market_lib_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = market_lib
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				market_lib_dirft = 0.1
+			}
+		}
+
+		conservative_lib_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = conservative_lib
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				conservative_lib_dirft = 0.1
+			}
+		}
+
+		christ_dem_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = christ_dem
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				christ_dem_dirft = 0.1
+			}
+		}
+
+		democratic_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				democratic_dirft = 0.1
+			}
+		}
+
+		nat_con_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = nat_con
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				nat_con_dirft = 0.1
+			}
+		}
+
+		neutrality_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = neutrality
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				neutrality_dirft = 0.1
+			}
+		}
+
+		dem_nat_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = dem_nat
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				dem_nat_dirft = 0.1
+			}
+		}
+
+		monarchism_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = monarchism
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				monarchism_dirft = 0.1
+			}
+		}
+
+		theocracy_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = theocracy
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				theocracy_dirft = 0.1
+			}
+		}
+
+		auth_dem_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = auth_dem
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				auth_dem_dirft = 0.1
+			}
+		}
+
+		pat_aut_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = pat_aut
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				pat_aut_dirft = 0.1
+			}
+		}
+
+		ultra_nat_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = ultra_nat
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				ultra_nat_dirft = 0.1
+			}
+		}
+
+		fascism_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = fascism
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				fascism_dirft = 0.1
+			}
+		}
+
+		nat_bol_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = nat_bol
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				nat_bol_dirft = 0.1
+			}
+		}
+
+		nat_soc_idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = nat_soc
+			}
+
+			removal_cost = -1
+
+			#picture = generic_infantry_bonus
+
+			
+			modifier = {
+				nat_soc_dirft = 0.1
+			}
+		}
+	}
+}

@@ -1,0 +1,19 @@
+state={
+	id=766
+	name="STATE_766"
+    manpower = 10000
+    state_category = rural
+    history = {
+        owner = POL
+        buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		add_core_of = POL
+		add_core_of = BLR
+    }
+
+	provinces={
+		406 277 9236 358
+	}
+}

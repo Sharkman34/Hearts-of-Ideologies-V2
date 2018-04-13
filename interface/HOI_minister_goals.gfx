@@ -1,0 +1,81 @@
+spriteTypes = {
+
+
+	###### Ministers #####
+
+	SpriteType = {
+		name = "GFX_idea_GER_Rudolf_Hess_hog_ns"
+		texturefile = "gfx/interface/ministers/GER/M40.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_GER_K_von_Neureth_fm_fa"
+		texturefile = "gfx/interface/ministers/GER/M3.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_GER_W_von_Blomberg_am_ns"
+		texturefile = "gfx/interface/ministers/GER/M4.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_GER_Wilhelm_Frick_sm_ns"
+		texturefile = "gfx/interface/ministers/GER/M5.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_GER_Wilhelm_Canaris_im_fa"
+		texturefile = "gfx/interface/ministers/GER/M6.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_CHL_Gustavo_Ross_hog_cl"
+		texturefile = "gfx/interface/ministers/CHL/44002.bmp"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_CHL_Miguel_fm_nc"
+		texturefile = "gfx/interface/ministers/CHL/44003.bmp"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_CHL_Arturo_Alessandri_sm_sc"
+		texturefile = "gfx/interface/ministers/CHL/44001.bmp"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_CHL_Eduardo_Hillman_am_sc"
+		texturefile = "gfx/interface/ministers/CHL/44004.bmp"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_CHL_Julio_Allard_Pinto_im"
+		texturefile = "gfx/interface/ministers/CHL/44006.bmp"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_FRA_Albert_Sarraut_hog_sl"
+		texturefile = "gfx/interface/ministers/FRA/M2002.bmp"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_FRA_Pierre_Etienne_Flandin_fm_cl"
+		texturefile = "gfx/interface/ministers/FRA/M2003.bmp"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_FRA_Vincent_Auriol_am_ds"
+		texturefile = "gfx/interface/ministers/FRA/M2004.bmp"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_FRA_Marx_Dormoy_sm_ds"
+		texturefile = "gfx/interface/ministers/FRA/M2005.bmp"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_FRA_Joseph_Paganon_im"
+		texturefile = "gfx/interface/ministers/FRA/M2006.bmp"
+	}
+	
+}

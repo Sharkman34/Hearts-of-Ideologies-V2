@@ -1,0 +1,107 @@
+spriteTypes = {
+
+
+	###### Ideology #####
+
+	SpriteType = {
+		name = "GFX_goal_ideology_anarchism"
+		texturefile = "gfx/interface/goals/goal_ideology_anarchism.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_totalism"
+		texturefile = "gfx/interface/goals/goal_ideology_totalism.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_rev_communism"
+		texturefile = "gfx/interface/goals/goal_ideology_rev_communism.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_communism"
+		texturefile = "gfx/interface/goals/goal_ideology_communism.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_syndicalism"
+		texturefile = "gfx/interface/goals/goal_ideology_syndicalism.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_rad_soc"
+		texturefile = "gfx/interface/goals/goal_ideology_rad_soc.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_mod_communism"
+		texturefile = "gfx/interface/goals/goal_ideology_mod_communism.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_dem_socialism"
+		texturefile = "gfx/interface/goals/goal_ideology_dem_socialism.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_social_democracy"
+		texturefile = "gfx/interface/goals/goal_ideology_social_democracy.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_agrarian"
+		texturefile = "gfx/interface/goals/goal_ideology_agrarian.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_soc_lib"
+		texturefile = "gfx/interface/goals/goal_ideology_soc_lib.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_rep_lib"
+		texturefile = "gfx/interface/goals/goal_ideology_rep_lib.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_nat_lib"
+		texturefile = "gfx/interface/goals/goal_ideology_nat_lib.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_market_lib"
+		texturefile = "gfx/interface/goals/goal_ideology_market_lib.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_christ_dem"
+		texturefile = "gfx/interface/goals/goal_ideology_christ_dem.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_democratic"
+		texturefile = "gfx/interface/goals/goal_ideology_democratic.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_neutrality"
+		texturefile = "gfx/interface/goals/goal_ideology_neutrality.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_dem_nat"
+		texturefile = "gfx/interface/goals/goal_ideology_dem_nat.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_monarchism"
+		texturefile = "gfx/interface/goals/goal_ideology_monarchism.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_theocracy"
+		texturefile = "gfx/interface/goals/goal_ideology_theocracy.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_auth_dem"
+		texturefile = "gfx/interface/goals/goal_ideology_auth_dem.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_pat_aut"
+		texturefile = "gfx/interface/goals/goal_ideology_pat_aut.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_ultra_nat"
+		texturefile = "gfx/interface/goals/goal_ideology_ultra_nat.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_fascism"
+		texturefile = "gfx/interface/goals/goal_ideology_fascism.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_ideology_nat_soc"
+		texturefile = "gfx/interface/goals/goal_ideology_nat_soc.dds"
+	}
+	
+}

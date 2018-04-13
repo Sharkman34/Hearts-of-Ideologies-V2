@@ -1,0 +1,21 @@
+state={
+	id=784
+	name="STATE_784"
+	provinces={
+		563 3558 11531 11547 11560 
+	}
+	manpower=3027739
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+
+		}
+		add_core_of = GER
+		set_demilitarized_zone = yes
+	}
+}

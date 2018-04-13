@@ -1,0 +1,61 @@
+spriteTypes = {
+
+
+	###### Ideology #####
+
+	SpriteType = {
+		name = "GFX_goal_anarchism"
+		texturefile = "gfx/interface/goals/GFX_goal_anarchism.png"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_rev_communism"
+		texturefile = "gfx/interface/goals/GFX_goal_rev_communism.png"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_totalism"
+		texturefile = "gfx/interface/goals/GFX_goal_totalism.png"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_communism"
+		texturefile = "gfx/interface/goals/GFX_goal_communism.png"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_syndicalism"
+		texturefile = "gfx/interface/goals/GFX_goal_syndicalism.png"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_mod_communism"
+		texturefile = "gfx/interface/goals/GFX_goal_mod_communism.png"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_monarchism"
+		texturefile = "gfx/interface/goals/GFX_goal_monarchism.png"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_theocracy"
+		texturefile = "gfx/interface/goals/GFX_goal_theocracy.png"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_fascism"
+		texturefile = "gfx/interface/goals/GFX_goal_fascism.png"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_national_bolshevism"
+		texturefile = "gfx/interface/goals/GFX_goal_national_bolshevism.png"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_national_socialism"
+		texturefile = "gfx/interface/goals/GFX_goal_national_socialism.png"
+	}
+	
+}

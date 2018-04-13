@@ -1,0 +1,18 @@
+state={
+	id=777
+	name="STATE_777"
+    manpower = 50000
+    state_category = rural
+    history = {
+        owner = CZE
+        buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		add_core_of = CZE
+    }
+
+	provinces={
+		9539 3484
+	}
+}

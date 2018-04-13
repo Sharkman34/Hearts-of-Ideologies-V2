@@ -1,0 +1,23 @@
+state={
+	id=783
+	name="STATE_783"
+	provinces={
+		9418 9444 13208 
+	}
+	manpower=3381300
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	history={
+		owner = BEL
+		add_core_of = BEL
+
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+
+		}
+	}
+}

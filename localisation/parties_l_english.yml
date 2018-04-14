@@ -122,47 +122,6 @@
  centrism:1 "Centrism"
  centrism_desc:1 "Centrism is a form of government which wants to achieve common sense solutions that appropriately address current and future needs, that support the public trust and serve the common good with consideration of risk and capacity in context of these needs."
  
-### PARTIES ###
-
- ### GERMAN REICH ###
- GER_anarchism_party:0 "-"
- GER_totalism_party:0 "-"
- GER_rev_communism_party:0 "-"
- GER_communism_party:0 "-"
- GER_syndicalism_party:0 "-"
- GER_rad_soc_party:0 "-"
- GER_mod_communism_party:0 "-"
- GER_dem_socialism_party:0 "-"
- GER_social_democracy_party:0 "-"
- GER_agrarian_party:0 "-"
- GER_soc_lib_party:0 "-"
- GER_rep_lib_party:0 "-"
- GER_nat_lib_party:0 "-"
- GER_market_lib_party:0 "-"
- GER_conservative_lib_party:0 "-"
- GER_christ_dem_party:0 "-"
- GER_democratic_party:0 "-"
- GER_nat_con_party:0 "Konservative Revolution"
- GER_neutrality_party:0 "DVNP"
- GER_dem_nat_party:0 "DVNP"
- GER_monarchism_party:0 "DVNP"
- GER_theocracy_party:0 "Catholic/Protestant Priests"
- GER_auth_dem_party:0 "DVNP"
- GER_pat_aut_party:0 "NSDAP"
- GER_pat_aut_party_long:0 "Moderates from NSDAP"
- GER_ultra_nat_party:0 "DVNP"
- GER_fascism_party:0 "NSDAP"
- GER_fascism_party_long:0 "Anti-Hitler front in NSDAP"
- GER_nat_bol_party:0 "KGRNS"
- GER_nat_bol_party_long:0 "Kampfgemeinschaft Revolutionärer Nationalsozialisten"
- GER_nat_soc_party:0 "NSDAP"
- GER_nat_soc_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
- ### GERMAN REPUBLIC ###
- 
- ### GERMAN UNION ###
- 
- ### GERMAN EMPIRE ###
- 
  ### FRENCH REPUBLIC ###
  FRA_anarchism_party:0 "FA"
  FRA_anarchism_party_long:0 "Fédération Anarchiste"

@@ -1,0 +1,56 @@
+﻿l_english:
+
+##Ministers###
+GER_Rudolf_Hess_hog_ns:0 "Rudolf Hess" 
+GER_K_von_Neureth_fm_fa:0 "Konstantin von Neurath"
+GER_W_von_Blomberg_am_ns:0 "Werner von Bloomberg"
+GER_Wilhelm_Frick_sm_ns:0 "Wilhelm Frick"
+GER_Wilhelm_Canaris_im_fa:0 "Wilhelm Canaris"
+ministers:0 "Cabinet Ministers" #I was lazy lol
+
+##Country####
+GER_nat_soc:0 "German Reich"
+
+##Parties##
+GER_anarchism_party:0 "-"
+GER_totalism_party:0 "-"
+GER_rev_communism_party:0 "-"
+GER_communism_party:0 "-"
+GER_syndicalism_party:0 "-"
+GER_rad_soc_party:0 "-"
+GER_mod_communism_party:0 "-"
+GER_dem_socialism_party:0 "-"
+GER_social_democracy_party:0 "-"
+GER_agrarian_party:0 "-"
+GER_soc_lib_party:0 "-"
+GER_rep_lib_party:0 "-"
+GER_nat_lib_party:0 "-"
+GER_market_lib_party:0 "-"
+GER_conservative_lib_party:0 "-"
+GER_christ_dem_party:0 "-"
+GER_democratic_party:0 "-"
+GER_nat_con_party:0 "Konservative Revolution"
+GER_neutrality_party:0 "DVNP"
+GER_dem_nat_party:0 "DVNP"
+GER_auth_dem_party:0 "DVNP"
+GER_pat_aut_party:0 "NSDAP"
+GER_pat_aut_party_long:0 "Moderates from NSDAP"
+GER_monarchism_party:0 "DVNP"
+GER_theocracy_party:0 "Catholic/Protestant Priests"
+GER_ultra_nat_party:0 "DVNP"
+GER_fascism_party:0 "NSDAP"
+GER_fascism_party_long:0 "Anti-Hitler front in NSDAP"
+GER_nat_bol_party:0 "KGRNS"
+GER_nat_bol_party_long:0 "Kampfgemeinschaft Revolutionärer Nationalsozialisten"
+GER_nat_soc_party:0 "NSDAP"
+GER_nat_soc_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+
+#Ideas#
+blitz:0 "Blitzkrieg"
+
+#Decisions
+GER_wartime_category:0 "Wartime Decisions"
+blitzkreig:0 "Blitzkrieg"
+defence:0 "Defence"
+destiny:0 "Destiny"
+destiny_desc:0 "We will fulfill our destiny of Lebensraum"
